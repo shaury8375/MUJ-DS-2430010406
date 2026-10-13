@@ -3,9 +3,9 @@
 ## Student Details
 - **Name:** Shaury Sharma
 - **Registration Number:** 2430010406
-- **Branch:** <Data Science & Engineering>
+- **Branch:** Data Science & Engineering
 - **Section:** D
-- **GitHub Username:** <shaury8375>
+- **GitHub Username:** shaury8375
 
 ## Training Program
 - **Program:** Data Science / Deep Learning Training Program
