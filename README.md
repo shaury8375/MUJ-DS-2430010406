@@ -5,14 +5,6 @@
 - **Registration Number:** 2430010406
 - **Branch:** Data Science & Engineering
 - **Section:** D
-- **GitHub Username:** shaury8375
-# MUJ-DS-2430010406
-
-## Student Details
-- **Name:** Shaury Sharma
-- **Registration Number:** 2430010406
-- **Branch:** Data Science & Engineering
-- **Section:** D
 - **Batch:** F
 - **GitHub Username:** shaury8375
 
